@@ -13,7 +13,7 @@
 - 🛠 Building practical projects and tackling complex challenges
 
 ## 🌐 Socials:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/nilayan-dey-990ba233a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilayan-dey" height="30" width="40" /></a>
 <a href="https://instagram.com/nilayandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilayandey_" height="30" width="40" /></a>
 <a href="https://x.com/nilayandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilayandey_" height="30" width="40" /></a>  
