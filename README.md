@@ -95,9 +95,3 @@
 
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nilayan8513&label=Profile%20views&color=0e75b6&style=flat"
-       alt="Nilayan8513" />
-</p>
->
