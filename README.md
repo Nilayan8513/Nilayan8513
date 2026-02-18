@@ -8,9 +8,9 @@
 ---
 
 # 💫 About Me:
-🎓 CS student | Full Stack & ML
-🔥 Learning by building
-🛠 Real-world projects & experiments
+- 🎓 CS student | **Full Stack + Machine Learning**
+- 🔥 Learning **Cloud Computing** and AI-driven systems
+- 🛠 Building practical projects and tackling complex challenges
 
 ## 🌐 Socials:
 <p align="left">
