@@ -1,30 +1,55 @@
-<h1 align="center">Hi 👋, I'm Nilayan Dey</h1>
-<h3 align="center">🚀 Full Stack Developer | ML Explorer | Problem Solver</h3>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4F46E5;">Nilayan Dey</span>
+</h1>
+
+<h3 align="center">
+  💻 Full Stack Developer • 🤖 ML Explorer • 🧠 Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Stuff;Learning+ML+%26+Security;Future+Engineer;Always+Improving&center=true&width=500&height=45">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Projects;Exploring+Machine+Learning;Learning+Security+Concepts;Future+Software+Engineer&center=true&width=520&height=45&color=4F46E5"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-# 💫 About Me:
-- 🎓 Student passionate about **Full Stack + Machine Learning**
-- 🔥 Currently working on improving my skills
-- 🛠 Love building real-world projects
+<h2 align="center">💫 About Me</h2>
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/nilayan-dey-990ba233a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitai-chanda" height="30" width="40" /></a>
-<a href="https://instagram.com/nilayandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitai_chanda_" height="30" width="40" /></a>
-<a href="https://x.com/nilayandey_" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-       alt="nilayandey_"
-       height="30"
-       width="40" />
-</a>
-
+<p align="center">
+🎓 Computer Science student passionate about <b>Full Stack Development</b> & <b>Machine Learning</b><br/>
+🔥 Continuously sharpening my skills through hands-on projects<br/>
+🛠 Enjoy turning ideas into practical, real-world solutions
 </p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nilayan-dey-990ba233a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="32"
+         width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/nilayandey_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram"
+         height="32"
+         width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/nilayandey_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         alt="X / Twitter"
+         height="32"
+         width="42" />
+  </a>
+</p>
+
 
 ---
 
