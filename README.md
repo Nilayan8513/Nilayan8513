@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilayan Dey</h1>
-<h3 align="center">🚀 Full Stack Developer | ML Explorer | Problem Solver</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 Machine Learning | 🐍 Python | 🧩 Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Stuff;Learning+ML+%26+Security;Future+Engineer;Always+Improving&center=true&width=500&height=45">
