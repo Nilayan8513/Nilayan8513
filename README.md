@@ -1,18 +1,99 @@
-# 💫 About Me:
-🎓 CS student | Full Stack & ML<br>🔥 Learning by building<br>🛠 Real-world projects & experiments
+<h1 align="center">Hi 👋, I'm Nilayan Dey</h1>
 
+<p align="center">
+💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 🚀 CS Student
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilayandey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilayan-dey-990ba233a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nilayandey_) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nilayan8513&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nilayan8513&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilayan8513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Learning by building real-world projects and experimenting with ideas
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nilayan8513&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science & Engineering student  
+- 🔥 Focused on **Full Stack Development** and **Machine Learning**  
+- 🛠️ Strong belief in hands-on learning through projects  
+- ⚙️ Interested in building practical, scalable applications  
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css" />
+
+<br/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+<br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br/>
+
+<!-- Cloud / DevOps -->
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
+<img src="https://img.shields.io/badge/OpenStack-f01742?style=flat&logo=openstack&logoColor=white"/>
+
+<br/>
+
+<!-- Machine Learning / Data -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/nilayan-dey-990ba233a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+<a href="https://instagram.com/nilayandey_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+</a>
+<a href="https://x.com/nilayandey_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilayan8513&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nilayan8513&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilayan8513&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nilayan8513&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
