@@ -8,9 +8,9 @@
 ---
 
 # 💫 About Me:
-- 🎓 Student passionate about **Full Stack + Machine Learning**
-- 🔥 Currently deep-diving into **Cloud Computing** and AI integration
-- 🛠 Love building real-world projects and solving complex problems
+🎓 CS student | Full Stack & ML
+🔥 Learning by building
+🛠 Real-world projects & experiments
 
 ## 🌐 Socials:
 <p align="left">
