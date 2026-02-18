@@ -82,15 +82,17 @@
 ---
 
 # 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Nilayan8513&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nilayan8513&theme=shadow_blue&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilayan8513&theme=shadow_blue&hide_border=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nilayan8513&theme=shadow_blue&hide_border=false)
-
-
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Nilayan8513&label=Profile%20views&color=0e75b6&style=flat" alt="Nilayan8513" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nilayan8513&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Nilayan8513" />
 </p>
+>
